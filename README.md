@@ -1,4 +1,4 @@
-# Fever---Fundraiser-Camapiagn-Analysis
+# Kick Starter Challenge
 # Overview of Project
 
 ### Purpose
